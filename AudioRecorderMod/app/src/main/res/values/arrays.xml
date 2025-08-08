@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="xposed_scope">
+        <!-- 系统框架 -->
+        <item>android</item>
+        
+        <!-- 目标应用 -->
+        <item>com.tencent.mm</item>
+        <item>com.tencent.mobileqq</item>
+        <item>com.smile.gifmaker</item>
+        <item>com.ss.android.ugc.aweme</item>
+        <item>com.tencent.weishi</item>
+        <item>com.ss.android.article.news</item>
+        <item>com.netease.cloudmusic</item>
+        <item>com.tencent.qqmusic</item>
+    </string-array>
+</resources> 

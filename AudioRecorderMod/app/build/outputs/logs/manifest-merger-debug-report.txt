@@ -1,0 +1,398 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:2:1-78:12
+INJECTED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:2:1-78:12
+MERGED from [androidx.databinding:viewbinding:8.11.1] E:\Android\gradle\caches\8.13\transforms\7e0cb48db9f94835644fe8e909e41240\transformed\jetified-viewbinding-8.11.1\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.material:material:1.10.0] E:\Android\gradle\caches\8.13\transforms\70f8c5a4bb7c80118159ef3cb53dd670\transformed\material-1.10.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] E:\Android\gradle\caches\8.13\transforms\4c1505c875468f965e6eb0b23e0e48c1\transformed\constraintlayout-2.1.4\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] E:\Android\gradle\caches\8.13\transforms\af55654137e0a25579b9b049dfa0b2e9\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.appcompat:appcompat:1.6.1] E:\Android\gradle\caches\8.13\transforms\050f00d37289d4c6ca7c81d133418f16\transformed\appcompat-1.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] E:\Android\gradle\caches\8.13\transforms\0d02aa846fd41e9b089b833d7e5589e6\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.6] E:\Android\gradle\caches\8.13\transforms\50745ef8e4f66e90dd2e78a9a9321db7\transformed\fragment-1.3.6\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.8.0] E:\Android\gradle\caches\8.13\transforms\2224f78951ac65c7c58d6ab47dfa140f\transformed\jetified-activity-1.8.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.12.0] E:\Android\gradle\caches\8.13\transforms\99edb5ad80852c7c9de2eab516143d90\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] E:\Android\gradle\caches\8.13\transforms\cee9acc6d61e7f181dc0738a36deac3e\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.emoji2:emoji2:1.2.0] E:\Android\gradle\caches\8.13\transforms\788be5bcb19d9a5cafa377a07d2517ee\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] E:\Android\gradle\caches\8.13\transforms\9788ec382de0911b5202c57517dfcf98\transformed\drawerlayout-1.1.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] E:\Android\gradle\caches\8.13\transforms\98397b5f7922d8d916b35500f81fecd9\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] E:\Android\gradle\caches\8.13\transforms\6cbc883d948e4042569c624dc2dce141\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] E:\Android\gradle\caches\8.13\transforms\3dc7a5476805054a47b5f74b89f282c4\transformed\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] E:\Android\gradle\caches\8.13\transforms\b982a77d86db38d6e2cb0e4c919ff67e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] E:\Android\gradle\caches\8.13\transforms\c32e6a150fc4802b86c57fadb21e14f7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] E:\Android\gradle\caches\8.13\transforms\f8bdb923841e72f0ad95a6e0697125c9\transformed\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] E:\Android\gradle\caches\8.13\transforms\fc7e71f899fd95453243c37e2c27ccc7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] E:\Android\gradle\caches\8.13\transforms\97751507b726d5db84d036a5e1d23c3b\transformed\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] E:\Android\gradle\caches\8.13\transforms\c02d99dea7bca0a2222fbd18bd65148d\transformed\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.1.0] E:\Android\gradle\caches\8.13\transforms\6c19be9493a38810473269b3319a22fd\transformed\customview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core:1.12.0] E:\Android\gradle\caches\8.13\transforms\611e539e69876e26553a82447dbaab0e\transformed\core-1.12.0\AndroidManifest.xml:17:1-30:12
+MERGED from [androidx.savedstate:savedstate:1.2.1] E:\Android\gradle\caches\8.13\transforms\278ac5e081d6925aff63f95d1e5ce7ab\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] E:\Android\gradle\caches\8.13\transforms\602e0bf91eb9b8b250c4dd377fd6978d\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:17:1-35:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] E:\Android\gradle\caches\8.13\transforms\7170a574f92155e58fbc1c1608031007\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] E:\Android\gradle\caches\8.13\transforms\e0da293997fe5753b6115b8003bacd86\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] E:\Android\gradle\caches\8.13\transforms\2ccaa3cb83f0cc84fc3a028409625c61\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] E:\Android\gradle\caches\8.13\transforms\9c52491c060de68e3b3853b124c2483b\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] E:\Android\gradle\caches\8.13\transforms\c79b8d95e022a50263029dbef586dea7\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.orhanobut:logger:2.2.0] E:\Android\gradle\caches\8.13\transforms\6c093c8531680d39aa0e9acb7859c17e\transformed\jetified-logger-2.2.0\AndroidManifest.xml:2:1-8:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] E:\Android\gradle\caches\8.13\transforms\2e44e35e3cf14a61337ec1ff3a9de485\transformed\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.cardview:cardview:1.0.0] E:\Android\gradle\caches\8.13\transforms\a3507a816418c3ec60edcf8bfc0af567\transformed\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] E:\Android\gradle\caches\8.13\transforms\5347e85f3c93ad3721b2a7bdbe508531\transformed\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Android\gradle\caches\8.13\transforms\0c401efb4ca766ea8e440868786a425b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:17:1-55:12
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Android\gradle\caches\8.13\transforms\2c83a5c0be080956ce53b84bce10e1c5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] E:\Android\gradle\caches\8.13\transforms\e6ff7141a3ae87e530db70f1042e2347\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.2.0] E:\Android\gradle\caches\8.13\transforms\e20337d3f5667fbd0ea2dd1f5aed050c\transformed\core-runtime-2.2.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] E:\Android\gradle\caches\8.13\transforms\8c6e0eec975112fdc43bf81b8d6a053f\transformed\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] E:\Android\gradle\caches\8.13\transforms\0e664237fa6bea03f2b7ec292ab17d66\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] E:\Android\gradle\caches\8.13\transforms\668b55a10fe9fc753c5961665be71b05\transformed\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] E:\Android\gradle\caches\8.13\transforms\544f3804cf14dbbfdf9497c4bc41ed7c\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:17:1-22:12
+	package
+		INJECTED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.RECORD_AUDIO
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:7:5-81
+	android:name
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:7:22-78
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:8:5-80
+	android:name
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:8:22-77
+uses-permission#android.permission.MODIFY_AUDIO_SETTINGS
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.CAPTURE_AUDIO_OUTPUT
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:12:5-79
+	android:name
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:12:22-76
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:13:5-78
+	android:name
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:13:22-75
+uses-permission#android.permission.WRITE_SECURE_SETTINGS
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:14:5-15:47
+	tools:ignore
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:15:9-44
+	android:name
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:14:22-77
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:18:5-67
+	android:name
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:18:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:19:5-79
+	android:name
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:19:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:22:22-65
+uses-permission#android.permission.FOREGROUND_SERVICE
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:23:5-77
+	android:name
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:23:22-74
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:26:5-65
+	android:name
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:26:22-62
+uses-permission#android.permission.VIBRATE
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:27:5-66
+	android:name
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:27:22-63
+application
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:29:5-76:19
+INJECTED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:29:5-76:19
+MERGED from [com.google.android.material:material:1.10.0] E:\Android\gradle\caches\8.13\transforms\70f8c5a4bb7c80118159ef3cb53dd670\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.10.0] E:\Android\gradle\caches\8.13\transforms\70f8c5a4bb7c80118159ef3cb53dd670\transformed\material-1.10.0\AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] E:\Android\gradle\caches\8.13\transforms\4c1505c875468f965e6eb0b23e0e48c1\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] E:\Android\gradle\caches\8.13\transforms\4c1505c875468f965e6eb0b23e0e48c1\transformed\constraintlayout-2.1.4\AndroidManifest.xml:9:5-20
+MERGED from [androidx.emoji2:emoji2:1.2.0] E:\Android\gradle\caches\8.13\transforms\788be5bcb19d9a5cafa377a07d2517ee\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.emoji2:emoji2:1.2.0] E:\Android\gradle\caches\8.13\transforms\788be5bcb19d9a5cafa377a07d2517ee\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.core:core:1.12.0] E:\Android\gradle\caches\8.13\transforms\611e539e69876e26553a82447dbaab0e\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.core:core:1.12.0] E:\Android\gradle\caches\8.13\transforms\611e539e69876e26553a82447dbaab0e\transformed\core-1.12.0\AndroidManifest.xml:28:5-89
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] E:\Android\gradle\caches\8.13\transforms\602e0bf91eb9b8b250c4dd377fd6978d\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] E:\Android\gradle\caches\8.13\transforms\602e0bf91eb9b8b250c4dd377fd6978d\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:23:5-33:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Android\gradle\caches\8.13\transforms\0c401efb4ca766ea8e440868786a425b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Android\gradle\caches\8.13\transforms\0c401efb4ca766ea8e440868786a425b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:23:5-53:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Android\gradle\caches\8.13\transforms\2c83a5c0be080956ce53b84bce10e1c5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Android\gradle\caches\8.13\transforms\2c83a5c0be080956ce53b84bce10e1c5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:25:5-31:19
+	android:extractNativeLibs
+		INJECTED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.12.0] E:\Android\gradle\caches\8.13\transforms\611e539e69876e26553a82447dbaab0e\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+	android:supportsRtl
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:36:9-35
+	android:label
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:34:9-41
+	android:fullBackupContent
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:32:9-54
+	android:roundIcon
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:35:9-54
+	tools:targetApi
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:38:9-29
+	android:icon
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:33:9-43
+	android:allowBackup
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:30:9-35
+	android:theme
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:37:9-54
+	android:dataExtractionRules
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:31:9-65
+activity#com.audiorecorder.mod.MainActivity
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:40:9-48:20
+	android:exported
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:42:13-36
+	android:theme
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:43:13-58
+	android:name
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:41:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:44:13-47:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:45:17-69
+	android:name
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:45:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:46:17-77
+	android:name
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:46:27-74
+meta-data#xposedmodule
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:51:9-53:36
+	android:value
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:53:13-33
+	android:name
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:52:13-40
+meta-data#xposeddescription
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:54:9-56:61
+	android:value
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:56:13-58
+	android:name
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:55:13-45
+meta-data#xposedminversion
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:57:9-59:34
+	android:value
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:59:13-31
+	android:name
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:58:13-44
+meta-data#xposedscope
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:60:9-62:54
+	android:resource
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:62:13-51
+	android:name
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:61:13-39
+service#com.audiorecorder.mod.service.AudioHookService
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:65:9-69:63
+	android:enabled
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:67:13-35
+	android:exported
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:68:13-37
+	android:foregroundServiceType
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:69:13-60
+	android:name
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:66:13-53
+service#com.audiorecorder.mod.service.AudioProcessService
+ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:71:9-74:40
+	android:enabled
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:73:13-35
+	android:exported
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:74:13-37
+	android:name
+		ADDED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:72:13-56
+uses-sdk
+INJECTED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:8.11.1] E:\Android\gradle\caches\8.13\transforms\7e0cb48db9f94835644fe8e909e41240\transformed\jetified-viewbinding-8.11.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.databinding:viewbinding:8.11.1] E:\Android\gradle\caches\8.13\transforms\7e0cb48db9f94835644fe8e909e41240\transformed\jetified-viewbinding-8.11.1\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.material:material:1.10.0] E:\Android\gradle\caches\8.13\transforms\70f8c5a4bb7c80118159ef3cb53dd670\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.10.0] E:\Android\gradle\caches\8.13\transforms\70f8c5a4bb7c80118159ef3cb53dd670\transformed\material-1.10.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] E:\Android\gradle\caches\8.13\transforms\4c1505c875468f965e6eb0b23e0e48c1\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.4] E:\Android\gradle\caches\8.13\transforms\4c1505c875468f965e6eb0b23e0e48c1\transformed\constraintlayout-2.1.4\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] E:\Android\gradle\caches\8.13\transforms\af55654137e0a25579b9b049dfa0b2e9\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat-resources:1.6.1] E:\Android\gradle\caches\8.13\transforms\af55654137e0a25579b9b049dfa0b2e9\transformed\jetified-appcompat-resources-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] E:\Android\gradle\caches\8.13\transforms\050f00d37289d4c6ca7c81d133418f16\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.6.1] E:\Android\gradle\caches\8.13\transforms\050f00d37289d4c6ca7c81d133418f16\transformed\appcompat-1.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] E:\Android\gradle\caches\8.13\transforms\0d02aa846fd41e9b089b833d7e5589e6\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] E:\Android\gradle\caches\8.13\transforms\0d02aa846fd41e9b089b833d7e5589e6\transformed\jetified-viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] E:\Android\gradle\caches\8.13\transforms\50745ef8e4f66e90dd2e78a9a9321db7\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.6] E:\Android\gradle\caches\8.13\transforms\50745ef8e4f66e90dd2e78a9a9321db7\transformed\fragment-1.3.6\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.8.0] E:\Android\gradle\caches\8.13\transforms\2224f78951ac65c7c58d6ab47dfa140f\transformed\jetified-activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.8.0] E:\Android\gradle\caches\8.13\transforms\2224f78951ac65c7c58d6ab47dfa140f\transformed\jetified-activity-1.8.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] E:\Android\gradle\caches\8.13\transforms\99edb5ad80852c7c9de2eab516143d90\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.core:core-ktx:1.12.0] E:\Android\gradle\caches\8.13\transforms\99edb5ad80852c7c9de2eab516143d90\transformed\jetified-core-ktx-1.12.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] E:\Android\gradle\caches\8.13\transforms\cee9acc6d61e7f181dc0738a36deac3e\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2-views-helper:1.2.0] E:\Android\gradle\caches\8.13\transforms\cee9acc6d61e7f181dc0738a36deac3e\transformed\jetified-emoji2-views-helper-1.2.0\AndroidManifest.xml:5:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] E:\Android\gradle\caches\8.13\transforms\788be5bcb19d9a5cafa377a07d2517ee\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.emoji2:emoji2:1.2.0] E:\Android\gradle\caches\8.13\transforms\788be5bcb19d9a5cafa377a07d2517ee\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] E:\Android\gradle\caches\8.13\transforms\9788ec382de0911b5202c57517dfcf98\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] E:\Android\gradle\caches\8.13\transforms\9788ec382de0911b5202c57517dfcf98\transformed\drawerlayout-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] E:\Android\gradle\caches\8.13\transforms\98397b5f7922d8d916b35500f81fecd9\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] E:\Android\gradle\caches\8.13\transforms\98397b5f7922d8d916b35500f81fecd9\transformed\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] E:\Android\gradle\caches\8.13\transforms\6cbc883d948e4042569c624dc2dce141\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] E:\Android\gradle\caches\8.13\transforms\6cbc883d948e4042569c624dc2dce141\transformed\dynamicanimation-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] E:\Android\gradle\caches\8.13\transforms\3dc7a5476805054a47b5f74b89f282c4\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] E:\Android\gradle\caches\8.13\transforms\3dc7a5476805054a47b5f74b89f282c4\transformed\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] E:\Android\gradle\caches\8.13\transforms\b982a77d86db38d6e2cb0e4c919ff67e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] E:\Android\gradle\caches\8.13\transforms\b982a77d86db38d6e2cb0e4c919ff67e\transformed\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] E:\Android\gradle\caches\8.13\transforms\c32e6a150fc4802b86c57fadb21e14f7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] E:\Android\gradle\caches\8.13\transforms\c32e6a150fc4802b86c57fadb21e14f7\transformed\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] E:\Android\gradle\caches\8.13\transforms\f8bdb923841e72f0ad95a6e0697125c9\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] E:\Android\gradle\caches\8.13\transforms\f8bdb923841e72f0ad95a6e0697125c9\transformed\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] E:\Android\gradle\caches\8.13\transforms\fc7e71f899fd95453243c37e2c27ccc7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] E:\Android\gradle\caches\8.13\transforms\fc7e71f899fd95453243c37e2c27ccc7\transformed\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] E:\Android\gradle\caches\8.13\transforms\97751507b726d5db84d036a5e1d23c3b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] E:\Android\gradle\caches\8.13\transforms\97751507b726d5db84d036a5e1d23c3b\transformed\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] E:\Android\gradle\caches\8.13\transforms\c02d99dea7bca0a2222fbd18bd65148d\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] E:\Android\gradle\caches\8.13\transforms\c02d99dea7bca0a2222fbd18bd65148d\transformed\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] E:\Android\gradle\caches\8.13\transforms\6c19be9493a38810473269b3319a22fd\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] E:\Android\gradle\caches\8.13\transforms\6c19be9493a38810473269b3319a22fd\transformed\customview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.12.0] E:\Android\gradle\caches\8.13\transforms\611e539e69876e26553a82447dbaab0e\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.12.0] E:\Android\gradle\caches\8.13\transforms\611e539e69876e26553a82447dbaab0e\transformed\core-1.12.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] E:\Android\gradle\caches\8.13\transforms\278ac5e081d6925aff63f95d1e5ce7ab\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.savedstate:savedstate:1.2.1] E:\Android\gradle\caches\8.13\transforms\278ac5e081d6925aff63f95d1e5ce7ab\transformed\jetified-savedstate-1.2.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] E:\Android\gradle\caches\8.13\transforms\602e0bf91eb9b8b250c4dd377fd6978d\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] E:\Android\gradle\caches\8.13\transforms\602e0bf91eb9b8b250c4dd377fd6978d\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:21:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] E:\Android\gradle\caches\8.13\transforms\7170a574f92155e58fbc1c1608031007\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.6.1] E:\Android\gradle\caches\8.13\transforms\7170a574f92155e58fbc1c1608031007\transformed\lifecycle-livedata-core-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] E:\Android\gradle\caches\8.13\transforms\e0da293997fe5753b6115b8003bacd86\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.6.1] E:\Android\gradle\caches\8.13\transforms\e0da293997fe5753b6115b8003bacd86\transformed\lifecycle-livedata-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] E:\Android\gradle\caches\8.13\transforms\2ccaa3cb83f0cc84fc3a028409625c61\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.6.1] E:\Android\gradle\caches\8.13\transforms\2ccaa3cb83f0cc84fc3a028409625c61\transformed\lifecycle-viewmodel-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] E:\Android\gradle\caches\8.13\transforms\9c52491c060de68e3b3853b124c2483b\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.6.1] E:\Android\gradle\caches\8.13\transforms\9c52491c060de68e3b3853b124c2483b\transformed\lifecycle-runtime-2.6.1\AndroidManifest.xml:5:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] E:\Android\gradle\caches\8.13\transforms\c79b8d95e022a50263029dbef586dea7\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.6.1] E:\Android\gradle\caches\8.13\transforms\c79b8d95e022a50263029dbef586dea7\transformed\jetified-lifecycle-viewmodel-savedstate-2.6.1\AndroidManifest.xml:20:5-44
+MERGED from [com.orhanobut:logger:2.2.0] E:\Android\gradle\caches\8.13\transforms\6c093c8531680d39aa0e9acb7859c17e\transformed\jetified-logger-2.2.0\AndroidManifest.xml:6:5-43
+MERGED from [com.orhanobut:logger:2.2.0] E:\Android\gradle\caches\8.13\transforms\6c093c8531680d39aa0e9acb7859c17e\transformed\jetified-logger-2.2.0\AndroidManifest.xml:6:5-43
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] E:\Android\gradle\caches\8.13\transforms\2e44e35e3cf14a61337ec1ff3a9de485\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] E:\Android\gradle\caches\8.13\transforms\2e44e35e3cf14a61337ec1ff3a9de485\transformed\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] E:\Android\gradle\caches\8.13\transforms\a3507a816418c3ec60edcf8bfc0af567\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] E:\Android\gradle\caches\8.13\transforms\a3507a816418c3ec60edcf8bfc0af567\transformed\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] E:\Android\gradle\caches\8.13\transforms\5347e85f3c93ad3721b2a7bdbe508531\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] E:\Android\gradle\caches\8.13\transforms\5347e85f3c93ad3721b2a7bdbe508531\transformed\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Android\gradle\caches\8.13\transforms\0c401efb4ca766ea8e440868786a425b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] E:\Android\gradle\caches\8.13\transforms\0c401efb4ca766ea8e440868786a425b\transformed\versionedparcelable-1.1.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:21:5-44
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Android\gradle\caches\8.13\transforms\2c83a5c0be080956ce53b84bce10e1c5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Android\gradle\caches\8.13\transforms\2c83a5c0be080956ce53b84bce10e1c5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] E:\Android\gradle\caches\8.13\transforms\e6ff7141a3ae87e530db70f1042e2347\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] E:\Android\gradle\caches\8.13\transforms\e6ff7141a3ae87e530db70f1042e2347\transformed\jetified-tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.2.0] E:\Android\gradle\caches\8.13\transforms\e20337d3f5667fbd0ea2dd1f5aed050c\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.arch.core:core-runtime:2.2.0] E:\Android\gradle\caches\8.13\transforms\e20337d3f5667fbd0ea2dd1f5aed050c\transformed\core-runtime-2.2.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] E:\Android\gradle\caches\8.13\transforms\8c6e0eec975112fdc43bf81b8d6a053f\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] E:\Android\gradle\caches\8.13\transforms\8c6e0eec975112fdc43bf81b8d6a053f\transformed\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] E:\Android\gradle\caches\8.13\transforms\0e664237fa6bea03f2b7ec292ab17d66\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] E:\Android\gradle\caches\8.13\transforms\0e664237fa6bea03f2b7ec292ab17d66\transformed\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] E:\Android\gradle\caches\8.13\transforms\668b55a10fe9fc753c5961665be71b05\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] E:\Android\gradle\caches\8.13\transforms\668b55a10fe9fc753c5961665be71b05\transformed\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] E:\Android\gradle\caches\8.13\transforms\544f3804cf14dbbfdf9497c4bc41ed7c\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.3.0] E:\Android\gradle\caches\8.13\transforms\544f3804cf14dbbfdf9497c4bc41ed7c\transformed\jetified-annotation-experimental-1.3.0\AndroidManifest.xml:20:5-44
+	android:targetSdkVersion
+		INJECTED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.2.0] E:\Android\gradle\caches\8.13\transforms\788be5bcb19d9a5cafa377a07d2517ee\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] E:\Android\gradle\caches\8.13\transforms\602e0bf91eb9b8b250c4dd377fd6978d\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.6.1] E:\Android\gradle\caches\8.13\transforms\602e0bf91eb9b8b250c4dd377fd6978d\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:24:9-32:20
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Android\gradle\caches\8.13\transforms\2c83a5c0be080956ce53b84bce10e1c5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.1.1] E:\Android\gradle\caches\8.13\transforms\2c83a5c0be080956ce53b84bce10e1c5\transformed\jetified-startup-runtime-1.1.1\AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.2.0] E:\Android\gradle\caches\8.13\transforms\788be5bcb19d9a5cafa377a07d2517ee\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:28:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.2.0] E:\Android\gradle\caches\8.13\transforms\788be5bcb19d9a5cafa377a07d2517ee\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.2.0] E:\Android\gradle\caches\8.13\transforms\788be5bcb19d9a5cafa377a07d2517ee\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] E:\Android\gradle\caches\8.13\transforms\788be5bcb19d9a5cafa377a07d2517ee\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.2.0] E:\Android\gradle\caches\8.13\transforms\788be5bcb19d9a5cafa377a07d2517ee\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.2.0] E:\Android\gradle\caches\8.13\transforms\788be5bcb19d9a5cafa377a07d2517ee\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.2.0] E:\Android\gradle\caches\8.13\transforms\788be5bcb19d9a5cafa377a07d2517ee\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] E:\Android\gradle\caches\8.13\transforms\611e539e69876e26553a82447dbaab0e\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] E:\Android\gradle\caches\8.13\transforms\611e539e69876e26553a82447dbaab0e\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] E:\Android\gradle\caches\8.13\transforms\611e539e69876e26553a82447dbaab0e\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+permission#com.audiorecorder.mod.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] E:\Android\gradle\caches\8.13\transforms\611e539e69876e26553a82447dbaab0e\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+	android:protectionLevel
+		ADDED from [androidx.core:core:1.12.0] E:\Android\gradle\caches\8.13\transforms\611e539e69876e26553a82447dbaab0e\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+	android:name
+		ADDED from [androidx.core:core:1.12.0] E:\Android\gradle\caches\8.13\transforms\611e539e69876e26553a82447dbaab0e\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+uses-permission#${applicationId}.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] E:\Android\gradle\caches\8.13\transforms\611e539e69876e26553a82447dbaab0e\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] E:\Android\gradle\caches\8.13\transforms\611e539e69876e26553a82447dbaab0e\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+uses-permission#com.audiorecorder.mod.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION
+ADDED from [androidx.core:core:1.12.0] E:\Android\gradle\caches\8.13\transforms\611e539e69876e26553a82447dbaab0e\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+	android:name
+		ADDED from [androidx.core:core:1.12.0] E:\Android\gradle\caches\8.13\transforms\611e539e69876e26553a82447dbaab0e\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] E:\Android\gradle\caches\8.13\transforms\602e0bf91eb9b8b250c4dd377fd6978d\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] E:\Android\gradle\caches\8.13\transforms\602e0bf91eb9b8b250c4dd377fd6978d\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.6.1] E:\Android\gradle\caches\8.13\transforms\602e0bf91eb9b8b250c4dd377fd6978d\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+meta-data#androidx.profileinstaller.ProfileInstallerInitializer
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+	android:value
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+receiver#androidx.profileinstaller.ProfileInstallReceiver
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+	android:enabled
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+	android:exported
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+	android:permission
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+	android:directBootAware
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+intent-filter#action:name:androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+action#androidx.profileinstaller.action.INSTALL_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+intent-filter#action:name:androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+action#androidx.profileinstaller.action.SKIP_FILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+intent-filter#action:name:androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+action#androidx.profileinstaller.action.SAVE_PROFILE
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+intent-filter#action:name:androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+action#androidx.profileinstaller.action.BENCHMARK_OPERATION
+ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+	android:name
+		ADDED from [androidx.profileinstaller:profileinstaller:1.3.0] E:\Android\gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92

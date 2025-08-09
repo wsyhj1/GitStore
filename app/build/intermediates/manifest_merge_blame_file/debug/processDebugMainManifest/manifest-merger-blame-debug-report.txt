@@ -1,0 +1,226 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.audiorecorder.mod"
+4    android:versionCode="241"
+5    android:versionName="2.4.1" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="26"
+9        android:targetSdkVersion="34" />
+10
+11    <!-- 基础权限 -->
+12    <uses-permission android:name="android.permission.RECORD_AUDIO" />
+12-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:6:5-71
+12-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:6:22-68
+13    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+13-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:7:5-81
+13-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:7:22-78
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:8:5-80
+14-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:8:22-77
+15
+16    <!-- 系统级权限 -->
+17    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+17-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:11:5-80
+17-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:11:22-77
+18    <uses-permission android:name="android.permission.CAPTURE_AUDIO_OUTPUT" />
+18-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:12:5-79
+18-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:12:22-76
+19    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+19-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:13:5-78
+19-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:13:22-75
+20    <uses-permission android:name="android.permission.WRITE_SECURE_SETTINGS" />
+20-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:14:5-15:47
+20-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:14:22-77
+21
+22    <!-- 网络权限 -->
+23    <uses-permission android:name="android.permission.INTERNET" />
+23-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:18:5-67
+23-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:18:22-64
+24    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+24-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:19:5-79
+24-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:19:22-76
+25
+26    <!-- 系统权限 -->
+27    <uses-permission android:name="android.permission.WAKE_LOCK" />
+27-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:22:5-68
+27-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:22:22-65
+28    <uses-permission android:name="android.permission.FOREGROUND_SERVICE" />
+28-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:23:5-77
+28-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:23:22-74
+29
+30    <!-- 硬件权限 -->
+31    <uses-permission android:name="android.permission.CAMERA" />
+31-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:26:5-65
+31-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:26:22-62
+32    <uses-permission android:name="android.permission.VIBRATE" />
+32-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:27:5-66
+32-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:27:22-63
+33
+34    <permission
+34-->[androidx.core:core:1.12.0] C:\Users\12818\.gradle\caches\8.13\transforms\611e539e69876e26553a82447dbaab0e\transformed\core-1.12.0\AndroidManifest.xml:22:5-24:47
+35        android:name="com.audiorecorder.mod.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+35-->[androidx.core:core:1.12.0] C:\Users\12818\.gradle\caches\8.13\transforms\611e539e69876e26553a82447dbaab0e\transformed\core-1.12.0\AndroidManifest.xml:23:9-81
+36        android:protectionLevel="signature" />
+36-->[androidx.core:core:1.12.0] C:\Users\12818\.gradle\caches\8.13\transforms\611e539e69876e26553a82447dbaab0e\transformed\core-1.12.0\AndroidManifest.xml:24:9-44
+37
+38    <uses-permission android:name="com.audiorecorder.mod.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+38-->[androidx.core:core:1.12.0] C:\Users\12818\.gradle\caches\8.13\transforms\611e539e69876e26553a82447dbaab0e\transformed\core-1.12.0\AndroidManifest.xml:26:5-97
+38-->[androidx.core:core:1.12.0] C:\Users\12818\.gradle\caches\8.13\transforms\611e539e69876e26553a82447dbaab0e\transformed\core-1.12.0\AndroidManifest.xml:26:22-94
+39
+40    <application
+40-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:29:5-76:19
+41        android:allowBackup="true"
+41-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:30:9-35
+42        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+42-->[androidx.core:core:1.12.0] C:\Users\12818\.gradle\caches\8.13\transforms\611e539e69876e26553a82447dbaab0e\transformed\core-1.12.0\AndroidManifest.xml:28:18-86
+43        android:dataExtractionRules="@xml/data_extraction_rules"
+43-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:31:9-65
+44        android:debuggable="true"
+45        android:extractNativeLibs="false"
+46        android:fullBackupContent="@xml/backup_rules"
+46-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:32:9-54
+47        android:icon="@mipmap/ic_launcher"
+47-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:33:9-43
+48        android:label="@string/app_name"
+48-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:34:9-41
+49        android:roundIcon="@mipmap/ic_launcher_round"
+49-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:35:9-54
+50        android:supportsRtl="true"
+50-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:36:9-35
+51        android:theme="@style/Theme.AudioRecorderMod" >
+51-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:37:9-54
+52        <activity
+52-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:40:9-48:20
+53            android:name="com.audiorecorder.mod.MainActivity"
+53-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:41:13-41
+54            android:exported="true"
+54-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:42:13-36
+55            android:theme="@style/Theme.AudioRecorderMod" >
+55-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:43:13-58
+56            <intent-filter>
+56-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:44:13-47:29
+57                <action android:name="android.intent.action.MAIN" />
+57-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:45:17-69
+57-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:45:25-66
+58
+59                <category android:name="android.intent.category.LAUNCHER" />
+59-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:46:17-77
+59-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:46:27-74
+60            </intent-filter>
+61        </activity>
+62
+63        <!-- LSPosed模块入口 -->
+64        <meta-data
+64-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:51:9-53:36
+65            android:name="xposedmodule"
+65-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:52:13-40
+66            android:value="true" />
+66-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:53:13-33
+67        <meta-data
+67-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:54:9-56:61
+68            android:name="xposeddescription"
+68-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:55:13-45
+69            android:value="AudioRecorder Mod - 音频流Hook模块" />
+69-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:56:13-58
+70        <meta-data
+70-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:57:9-59:34
+71            android:name="xposedminversion"
+71-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:58:13-44
+72            android:value="82" />
+72-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:59:13-31
+73        <meta-data
+73-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:60:9-62:54
+74            android:name="xposedscope"
+74-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:61:13-39
+75            android:resource="@array/xposed_scope" />
+75-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:62:13-51
+76
+77        <!-- 服务 -->
+78        <service
+78-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:65:9-69:63
+79            android:name="com.audiorecorder.mod.service.AudioHookService"
+79-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:66:13-53
+80            android:enabled="true"
+80-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:67:13-35
+81            android:exported="false"
+81-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:68:13-37
+82            android:foregroundServiceType="mediaProjection" />
+82-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:69:13-60
+83        <service
+83-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:71:9-74:40
+84            android:name="com.audiorecorder.mod.service.AudioProcessService"
+84-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:72:13-56
+85            android:enabled="true"
+85-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:73:13-35
+86            android:exported="false" />
+86-->C:\Users\12818\Desktop\audioRecorder-Android-Titanium-Module-master\AudioRecorderMod\app\src\main\AndroidManifest.xml:74:13-37
+87
+88        <provider
+88-->[androidx.emoji2:emoji2:1.2.0] C:\Users\12818\.gradle\caches\8.13\transforms\788be5bcb19d9a5cafa377a07d2517ee\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:24:9-32:20
+89            android:name="androidx.startup.InitializationProvider"
+89-->[androidx.emoji2:emoji2:1.2.0] C:\Users\12818\.gradle\caches\8.13\transforms\788be5bcb19d9a5cafa377a07d2517ee\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:25:13-67
+90            android:authorities="com.audiorecorder.mod.androidx-startup"
+90-->[androidx.emoji2:emoji2:1.2.0] C:\Users\12818\.gradle\caches\8.13\transforms\788be5bcb19d9a5cafa377a07d2517ee\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:26:13-68
+91            android:exported="false" >
+91-->[androidx.emoji2:emoji2:1.2.0] C:\Users\12818\.gradle\caches\8.13\transforms\788be5bcb19d9a5cafa377a07d2517ee\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:27:13-37
+92            <meta-data
+92-->[androidx.emoji2:emoji2:1.2.0] C:\Users\12818\.gradle\caches\8.13\transforms\788be5bcb19d9a5cafa377a07d2517ee\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:29:13-31:52
+93                android:name="androidx.emoji2.text.EmojiCompatInitializer"
+93-->[androidx.emoji2:emoji2:1.2.0] C:\Users\12818\.gradle\caches\8.13\transforms\788be5bcb19d9a5cafa377a07d2517ee\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:30:17-75
+94                android:value="androidx.startup" />
+94-->[androidx.emoji2:emoji2:1.2.0] C:\Users\12818\.gradle\caches\8.13\transforms\788be5bcb19d9a5cafa377a07d2517ee\transformed\jetified-emoji2-1.2.0\AndroidManifest.xml:31:17-49
+95            <meta-data
+95-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\12818\.gradle\caches\8.13\transforms\602e0bf91eb9b8b250c4dd377fd6978d\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:29:13-31:52
+96                android:name="androidx.lifecycle.ProcessLifecycleInitializer"
+96-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\12818\.gradle\caches\8.13\transforms\602e0bf91eb9b8b250c4dd377fd6978d\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:30:17-78
+97                android:value="androidx.startup" />
+97-->[androidx.lifecycle:lifecycle-process:2.6.1] C:\Users\12818\.gradle\caches\8.13\transforms\602e0bf91eb9b8b250c4dd377fd6978d\transformed\jetified-lifecycle-process-2.6.1\AndroidManifest.xml:31:17-49
+98            <meta-data
+98-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12818\.gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:29:13-31:52
+99                android:name="androidx.profileinstaller.ProfileInstallerInitializer"
+99-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12818\.gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:30:17-85
+100                android:value="androidx.startup" />
+100-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12818\.gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:31:17-49
+101        </provider>
+102
+103        <receiver
+103-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12818\.gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:34:9-52:20
+104            android:name="androidx.profileinstaller.ProfileInstallReceiver"
+104-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12818\.gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:35:13-76
+105            android:directBootAware="false"
+105-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12818\.gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:36:13-44
+106            android:enabled="true"
+106-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12818\.gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:37:13-35
+107            android:exported="true"
+107-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12818\.gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:38:13-36
+108            android:permission="android.permission.DUMP" >
+108-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12818\.gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:39:13-57
+109            <intent-filter>
+109-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12818\.gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:40:13-42:29
+110                <action android:name="androidx.profileinstaller.action.INSTALL_PROFILE" />
+110-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12818\.gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:17-91
+110-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12818\.gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:41:25-88
+111            </intent-filter>
+112            <intent-filter>
+112-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12818\.gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:43:13-45:29
+113                <action android:name="androidx.profileinstaller.action.SKIP_FILE" />
+113-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12818\.gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:17-85
+113-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12818\.gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:44:25-82
+114            </intent-filter>
+115            <intent-filter>
+115-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12818\.gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:46:13-48:29
+116                <action android:name="androidx.profileinstaller.action.SAVE_PROFILE" />
+116-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12818\.gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:17-88
+116-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12818\.gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:47:25-85
+117            </intent-filter>
+118            <intent-filter>
+118-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12818\.gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:49:13-51:29
+119                <action android:name="androidx.profileinstaller.action.BENCHMARK_OPERATION" />
+119-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12818\.gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:17-95
+119-->[androidx.profileinstaller:profileinstaller:1.3.0] C:\Users\12818\.gradle\caches\8.13\transforms\8d50a52fe879a6d84185b78582ebab53\transformed\jetified-profileinstaller-1.3.0\AndroidManifest.xml:50:25-92
+120            </intent-filter>
+121        </receiver>
+122    </application>
+123
+124</manifest>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">AudioRecorder Mod</string>
+    <string name="start_hook">启动Hook</string>
+    <string name="stop_hook">停止Hook</string>
+    <string name="settings">设置</string>
+    <string name="logs">日志</string>
+    <string name="status_stopped">已停止</string>
+    <string name="status_running">运行中</string>
+    <string name="module_info">模块信息</string>
+    <string name="version">版本: 2.4.1</string>
+    <string name="author">作者: AudioRecorder Team</string>
+</resources> 

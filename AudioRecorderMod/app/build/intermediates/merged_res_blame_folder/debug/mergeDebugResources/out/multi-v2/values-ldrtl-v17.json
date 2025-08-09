@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.audiorecorder.mod.app-mergeDebugResources-2:/values-ldrtl-v17/values-ldrtl-v17.xml",
+            "outputFile": "com.audiorecorder.mod.app-mergeDebugResources-29:/values-ldrtl-v17/values-ldrtl-v17.xml",
             "map": [
                 {
-                    "source": "E:\\Android\\gradle\\caches\\8.13\\transforms\\70f8c5a4bb7c80118159ef3cb53dd670\\transformed\\material-1.10.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
+                    "source": "C:\\Users\\12818\\.gradle\\caches\\8.13\\transforms\\70f8c5a4bb7c80118159ef3cb53dd670\\transformed\\material-1.10.0\\res\\values-ldrtl-v17\\values-ldrtl-v17.xml",
                     "from": {
                         "startLines": "2,3",
                         "startColumns": "4,4",

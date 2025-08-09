@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "com.audiorecorder.mod.app-mergeDebugResources-2:/values-v18/values-v18.xml",
+            "outputFile": "com.audiorecorder.mod.app-mergeDebugResources-29:/values-v18/values-v18.xml",
             "map": [
                 {
-                    "source": "E:\\Android\\gradle\\caches\\8.13\\transforms\\050f00d37289d4c6ca7c81d133418f16\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
+                    "source": "C:\\Users\\12818\\.gradle\\caches\\8.13\\transforms\\050f00d37289d4c6ca7c81d133418f16\\transformed\\appcompat-1.6.1\\res\\values-v18\\values-v18.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
